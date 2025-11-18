@@ -33,3 +33,6 @@ def juego_pares_y_nones():
         print("🤝 ¡Empate!")
     
     input("\nPulsa ENTER para volver al menú...")
+
+if __name__ == "__main__":
+    juego_pares_y_nones()
