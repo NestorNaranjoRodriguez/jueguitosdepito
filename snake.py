@@ -21,7 +21,7 @@ SCORE_COLOR = "#FFD700"  # Dorado para el puntaje
 class SnakeGame:
     def __init__(self, root):
         self.root = root
-        self.root.title("Snake Game - Corregido: Teclas múltiples")
+        self.root.title("Snake Game")
         self.canvas = tk.Canvas(root, width=WIDTH, height=HEIGHT, bg=DARK_GREEN)
         self.canvas.pack()
         
