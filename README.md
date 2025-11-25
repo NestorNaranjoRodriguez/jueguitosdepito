@@ -8,9 +8,11 @@
 
 - **Juego 2:🪨 Piedra, 📄 Papel, ✂️ Tijera, 🦎 Lagarto, 🖖 Spock(lógica)**  
   Versión clásica entre dos jugadores (Himar y Antonio):  
-  - **Piedra vence a Tijera**  
-  - **Tijera vence a Papel**  
-  - **Papel vence a Piedra**  
+  - **Piedra aplasta Tijera y Lagarto**  
+  - **Papel cubre Piedra y desautoriza Spock**  
+  - **Tijera corta Papel y decapita Lagarto**  
+  - **Lagarto envenena Spock y come Papel**  
+  - **Spock rompe Tijera y vaporiza Piedra**  
   Variante extendida: se añaden **Lagarto y Spock**, ampliando las combinaciones y reduciendo los empates.  
 
 - **Juego 3: 🐍 Snake (gráfico con pygame)**  
